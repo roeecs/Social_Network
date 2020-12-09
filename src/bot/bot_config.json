@@ -1,0 +1,7 @@
+{
+  "number_of_users": 4,
+  "max_posts_per_user": 4,
+  "max_likes_per_user": 2,
+  "username_prefix": "username",
+  "password_prefix": "passpass"
+}
